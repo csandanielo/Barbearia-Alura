@@ -6,4 +6,6 @@ Projeto gerado em resultado ao curso de HTML/CSS pelo instrutor Pedro Marins na 
 - Contato
 - Produtos
 
+(Adicionados pela Branch Master)
+
 #### Imagens utilizadas no projeto em .JPG
